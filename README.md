@@ -146,7 +146,7 @@ bot-elections-cameroun-2025/
 Projet développé par **[mboa-automation](https://github.com/mboa-automation)** :
 
 - **Messoa Yene Stephane Erwan**
-- **Bryan Vincent Mballa** 
+- **Bryan Vincent Mballa Yene** 
 
 ---
 
